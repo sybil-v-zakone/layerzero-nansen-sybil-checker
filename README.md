@@ -1,1 +1,0 @@
-# layerzero-nansen-sybil-checker
